@@ -41,7 +41,7 @@ A car has a fuel-level detector that outputs the current fuel-level as a 3-bit b
 
 # (5 pts)
 Convert the function F shown in the truth table in Table below to an *product-of-sum* equation. Don’t minimize the equation.
-
+!ans(EE260 exam1.pdf)
 ![Truth table](figures/problem_6.png)
 
 # (5 pts)
